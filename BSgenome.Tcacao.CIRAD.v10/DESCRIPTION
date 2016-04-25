@@ -1,0 +1,17 @@
+Package: BSgenome.Tcacao.CIRAD.v10
+Title: Reference genome sequences for Criollo variety of Theobroma cacao (version 1.0)
+Description: Full genome sequences for Theobroma cacao
+Version: 0.2
+Author: The Bioconductor Dev Team
+Maintainer: Conrad Stack <conrad.stack@effem.com>
+Depends: BSgenome (>= 1.32.0)
+Imports: BSgenome
+License: Artistic-2.0
+organism: Theobroma cacao
+species: cacao
+provider: CIRAD
+provider_version: v10
+release_date: Oct. 2012
+release_name: CriolloCIRAD
+source_url: http://cocoagendb.cirad.fr
+biocViews: AnnotationData, Genetics, BSgenome, Theobroma_cacao

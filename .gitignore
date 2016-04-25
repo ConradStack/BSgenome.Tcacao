@@ -1,0 +1,20 @@
+
+# Any R package builds (as compress project directories):
+*.tar.gz
+*.tgz
+*.zip
+*.Rproj
+
+# Ignore mac-specific and R / Rstudio environment files
+**/.DS_Store
+**/.RData
+**/.Rapp.history
+**/.Rhistory
+.Rproj.user
+**/*.Rcheck/
+**/texput.log
+**/**.Rproj
+
+# Working (scratch) directory that shouldn't be uploaded
+scratch/
+

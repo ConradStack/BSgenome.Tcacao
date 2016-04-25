@@ -1,0 +1,17 @@
+Package: BSgenome.Tcacao.MarsInc.v11
+Title: Reference genome sequences for Matina 1-6 variety of Theobroma cacao (version 1.1)
+Description: Full genome sequences for Theobroma cacao
+Version: 0.2
+Author: The Bioconductor Dev Team
+Maintainer: Conrad Stack <conrad.stack@effem.com>
+Depends: BSgenome (>= 1.32.0)
+Imports: BSgenome
+License: Artistic-2.0
+organism: Theobroma cacao
+species: cacao
+provider: Mars
+provider_version: v11
+release_date: Mar. 2013
+release_name: Matina16v11
+source_url: http://www.cacaogenomedb.org
+biocViews: AnnotationData, Genetics, BSgenome, Theobroma_cacao
