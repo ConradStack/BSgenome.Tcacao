@@ -4,6 +4,7 @@
 *.tgz
 *.zip
 *.Rproj
+*.log
 
 # Ignore mac-specific and R / Rstudio environment files
 **/.DS_Store
