@@ -20,3 +20,5 @@
 scratch/
 data/
 
+# local files
+scripts/build_and_install_tx.sh
