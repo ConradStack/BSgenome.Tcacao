@@ -1,13 +1,14 @@
 Package: TxDb.Tcacao.Geneious.pub3i
 Type: Package
-Title: What the package does (short line)
+Title: Data package containing gene model annotations for T. cacao
 Version: 0.1.1
 Date: 2016-05-27
 Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Maintainer: Conrad Stack <yourfault@somewhere.net>
 Depends: GenomicFeatures (>= 1.21.30)
 Imports: AnnotationDbi
-Description: More about what it does (maybe more than one line)
+Suggests: VariantAnnotation
+Description: Gene model annotations for the cacao genome ()
 License: Artistic-2.0
 organism: Theobroma cacao
 species: Theobroma cacao

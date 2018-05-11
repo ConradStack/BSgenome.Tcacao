@@ -18,4 +18,5 @@
 
 # Working (scratch) directory that shouldn't be uploaded
 scratch/
+data/
 
